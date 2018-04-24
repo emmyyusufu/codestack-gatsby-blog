@@ -1,0 +1,17 @@
+
+div.blog-post-preview {
+    border-bottom: 2px solid #e6e6e6;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+}
+
+h1 > * {
+    font-size: 1.2rem;
+    text-decoration-line: none;
+}
+
+h2 {
+    font-size: 0.8rem !important;
+    font-weight: 100 !important;
+}
